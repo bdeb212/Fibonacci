@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AssuranceQualiteFibonacci
 {
-    public partial class Form1 : Form
+    public partial class FibonacciForm : Form
     {
-        public Form1()
+        public FibonacciForm()
         {
             InitializeComponent();
         }
